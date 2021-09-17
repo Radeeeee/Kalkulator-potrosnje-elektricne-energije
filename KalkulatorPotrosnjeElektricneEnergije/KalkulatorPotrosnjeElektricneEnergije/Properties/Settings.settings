@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="KalkulatorPotrosnjeElektricneEnergije.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CijenaPotrosnjeVisaTarifaLJ" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.114</Value>
+    </Setting>
+    <Setting Name="CijenaPotrosnjeNizaTarifaLJ" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.057</Value>
+    </Setting>
+    <Setting Name="CijenaPotrosnjeSrednjaTarifaLJ" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.0945</Value>
+    </Setting>
+    <Setting Name="CijenaPotrosnjeVisaTarifaZ" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.1486</Value>
+    </Setting>
+    <Setting Name="CijenaPotrosnjeNizaTarifaZ" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.0743</Value>
+    </Setting>
+    <Setting Name="CijenaPotrosnjeSrednjaTarifaZ" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.1229</Value>
+    </Setting>
+    <Setting Name="PretplataJednotarifnoBrojilo" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">4.67</Value>
+    </Setting>
+    <Setting Name="PretplataDvotarifnoBrojilo" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">7.36</Value>
+    </Setting>
+    <Setting Name="NaknadaUslugaSnabdjevanja" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">2.48</Value>
+    </Setting>
+    <Setting Name="NaknadaObnovljiviIzvori" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1.04</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
